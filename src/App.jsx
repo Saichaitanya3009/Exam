@@ -60,13 +60,6 @@ export default App;
 
 
 
-// mkdir text-transaction-tool
-// cd text-transaction-tool
-// mkdir backend
-// cd backend
-// npm init -y
-// npm install express mongoose cors dotenv nodemon
-
 
 
 
